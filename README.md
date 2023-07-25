@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kadin-he
-- 👀 I’m interested in web development
+- 👀 I have passion in web development
 - 🌱 I have 9+ years experience with software development.
 - 📫 My skillset: React.js, Node.js, Vue.js, Next.js, Django, Rails, Shopify them development.
 
