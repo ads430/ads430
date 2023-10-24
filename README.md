@@ -1,7 +1,7 @@
 - 👋 Hi, I’m a software developer
 - 👀 I have passion in web development
 - 🌱 I have 9+ years experience with software development.
-- 📫 My skillset: React.js, Node.js, Vue.js, Next.js, Django, Rails, Shopify them development.
+- 📫 My skillset: React.js, Node.js, Vue.js, Next.js, Django, ASP.Net MVC Core, ASP.Net MCV.
 
 <!---
 kadin-he/kadin-he is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
